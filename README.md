@@ -1,16 +1,16 @@
-Hola, soy Citlalli Leilani Mejía Torrijos 👋
+#Hola, soy Citlalli Leilani Mejía Torrijos 👋
 
-💻 Ingeniera en Tecnologías de la Información
+##💻 Ingeniera en Tecnologías de la Información
 
 “Este espacio reúne los proyectos y aprendizajes que reflejan mi crecimiento profesional en el área de Tecnologías de la Información.”
 
-🌟 Sobre mí
+##🌟 Sobre mí
 
 Me apasiona transformar ideas en soluciones tecnológicas mediante el análisis, la gestión de proyectos y el desarrollo de productos digitales.
 
 Actualmente estoy fortaleciendo y mejorando los conocimientos que he adquirido, con el objetivo de desarrollar una visión más amplia que me permita destacar y convertirme en una mejor candidata profesional.
 
-🎯 Áreas de interés
+##🎯 Áreas de interés
 
 📊 Product Management
 
@@ -22,7 +22,7 @@ Actualmente estoy fortaleciendo y mejorando los conocimientos que he adquirido, 
 
 📂 Gestión Documental
 
-🛠️ Tecnologías y conocimientos
+##🛠️ Tecnologías y conocimientos
 
 Python
 
@@ -42,7 +42,7 @@ Excel
 
 SQL (en mejora continua)
 
-📜 Certificaciones
+##📜 Certificaciones
 
 CCNA v7: Introducción a Redes — Cisco Networking Academy
 
@@ -52,7 +52,7 @@ Importancia del Financiamiento — Nacional Financiera
 
 Tu Futuro Financiero — Cátedra Bank of America - Anáhuac
 
-🌱 Actualmente
+##🌱 Actualmente
 
 Fortaleciendo y mejorando mis conocimientos técnicos.
 
