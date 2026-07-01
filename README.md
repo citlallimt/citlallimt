@@ -59,4 +59,3 @@ Fortaleciendo y mejorando mis conocimientos técnicos.
 Construyendo proyectos para desarrollar una visión integral de producto y tecnología.
 
 ✨ Gracias por visitar mi perfil.
-Preparándome para destacar como candidata en áreas de IA, análisis y gestión de proyectos.
