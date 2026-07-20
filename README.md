@@ -44,13 +44,29 @@ SQL (en mejora continua)
 
 ## 📜 Certificaciones
 
-CCNA v7: Introducción a Redes — Cisco Networking Academy
+<details>
+  <summary><b>📜 CCNA v7: Introducción a Redes — Cisco Networking Academy</b> (Clic para ver certificado)</summary>
+  <br>
+  <img src="Certificados/CCNA_v7_Introducción_Redes.png" width="600" alt="CCNA v7 Cisco">
+</details>
 
-Fundamentals of Digital Marketing — Google
+<details>
+  <summary><b>📜 Fundamentals of Digital Marketing — Google</b> (Clic para ver certificado)</summary>
+  <br>
+  <img src="Certificados/google_marketing.png" width="600" alt="Google Digital Marketing">
+</details>
 
-Importancia del Financiamiento — Nacional Financiera
+<details>
+  <summary><b>📜 Importancia del Financiamiento — Nacional Financiera (NAFIN)</b> (Clic para ver certificado)</summary>
+  <br>
+  <img src="Certificados/nafin_financiamiento.png" width="600" alt="Financiamiento NAFIN">
+</details>
 
-Tu Futuro Financiero — Cátedra Bank of America - Anáhuac
+<details>
+  <summary><b>📜 Tu Futuro Financiero — Bank of America / Cátedra Anáhuac</b> (Clic para ver certificado)</summary>
+  <br>
+  <img src="Certificados/bank_of_america.png" width="600" alt="Tu Futuro Financiero Bank of America">
+</details>
 
 ## 🌱 Actualmente
 
