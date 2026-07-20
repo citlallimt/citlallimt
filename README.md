@@ -47,7 +47,7 @@ SQL (en mejora continua)
 <details>
   <summary><b>📜 CCNA v7: Introducción a Redes — Cisco Networking Academy</b> (Clic para ver certificado)</summary>
   <br>
-  <img src="Certificados/CCNA_v7_Introducción_Redes.png" width="600" alt="CCNA v7 Cisco">
+  <img src="Certificados/CCNA_v7_Introducci%C3%B3n_Redes.png" width="600" alt="CCNA v7 Cisco">
 </details>
 
 <details>
